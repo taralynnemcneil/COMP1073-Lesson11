@@ -18,7 +18,7 @@
                 $('#contact').attr('class','active');
                 break;
         }
-        
+        // inserting mutual elements/styles through JQuery.
     });
     
     
