@@ -1,0 +1,19 @@
+{
+  "name": "bower init",
+  "homepage": "https://github.com/taralynnemcneil/COMP1073-Lesson11",
+  "authors": [
+    "Tara McNeil <taralynnemcneil@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ]
+}
